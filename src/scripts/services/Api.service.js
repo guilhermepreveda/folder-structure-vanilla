@@ -7,14 +7,15 @@ Detalhe, ela fará apenas as requisições,
 quem manipulará o DOM será um controller ou o próprio script.js.
 
 Ex.:
-    export default class ApiService {
-        static BASE_URL = "http://"
-
-        static get() {
-            [...]
-        }
-
-        [...]
-    }
 
 */
+
+export default class ApiService {
+  static BASE_URL = "http://";
+
+  static get() {
+    // [...]
+  }
+
+  // [...]
+}

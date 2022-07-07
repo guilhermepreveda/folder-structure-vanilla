@@ -8,14 +8,15 @@ mas não o anexa na página, pois isso será feito em um outro
 controller ou no script.js:
 
 Ex.:
-    export default class HTMLController {
-        static generateHeader() {
-            const header = document.createElement('header');
-
-            return header
-        }
-
-        [...]
-    }
 
 */
+
+export default class HTMLController {
+  static generateHeader() {
+    const header = document.createElement("header");
+
+    return header;
+  }
+
+  // [...]
+}

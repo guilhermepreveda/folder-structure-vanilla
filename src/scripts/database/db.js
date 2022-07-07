@@ -8,6 +8,7 @@ Você pode salvar dados que precisam ser acessados por
 diversas partes do projeto, como por exemplo, um carrinho de compras:
 
 Ex.:
-    export const shoppingCart = [];
 
 */
+
+export const shoppingCart = [];
