@@ -1,0 +1,11 @@
+/* src > styles > styles.css */
+/*
+
+Aqui ficará a estilização das suas páginas e componentes da sua aplicação.
+
+Além disso, será feita a importação de outros arquivos .css nesse arquivo.
+
+*/
+
+@import url("./normalize.css");
+@import url("./reset.css");
